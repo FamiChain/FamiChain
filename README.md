@@ -13,7 +13,7 @@ These are the main points of the project:
 
 Website: https://famichain.com <br/>
 FamiSocial: https://fami.social <br/>
-FamiWallet: https://track.famichain.com <br/>
+FamiTrack: https://track.famichain.com <br/>
 FamiWallet: https://wallet.famichain.com <br/>
 Telegram Channel: https://t.me/FamiChain <br/>
 Telegram Group: https://t.me/FamiChainGroup <br/>
