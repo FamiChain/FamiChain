@@ -1,4 +1,4 @@
-@FamiChain Token based on BEP20 (BSC Contract 0x3cfc0c163771faba40ad90d8a19dfbbf0c5fa8bf).
+@FamiChain Token based on BEP20 (BSC Contract 0x14877c02985f065154c53e1eed8a9a27b619594e).
 
 FamiChain is an aggregate project belonging to the Fami Cross-chains project chain of FamiChain Limited. The project prepared more than 8 months ago with the official launch from a team of 39 employees on April 28, 2022.
 
