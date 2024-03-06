@@ -9,8 +9,5 @@ These are the main points of the projects:
 Website: https://famichain.com <br/>
 FamiTrack: https://track.famichain.com <br/>
 FamiWallet: https://wallet.famichain.com <br/>
-FamiExchanges: https://famichain.app <br/>
-Telegram Channel: https://t.me/FamiChain <br/>
-Telegram Group: https://t.me/FamiChainGroup <br/>
-Trustpilot: https://trustpilot.com/review/famichain.com <br/>
+FamiMoney: https://famichain.money <br/>
 Email: hello@famichain.com
